@@ -32,7 +32,7 @@ To make AI more humane.
 ### 🧑‍⚕️ Author  
 **Dr. Umee Davae, D.O.**  
 Computational Psychiatrist · Founder, HeuMem.ai  
-[🌐 DrUmiX.com](https://DrUmiX.com) · [💼 LinkedIn](https://www.linkedin.com/in/umeedavae) · [🐦 X](https://x.com/DrUmee)
+[💼 LinkedIn](https://www.linkedin.com/in/umeedavae) · [🐦 X](https://x.com/DrUmee)
 
 ---
 
